@@ -1,0 +1,5 @@
+openai
+feedparser
+edge-tts
+requests
+trafilatura
