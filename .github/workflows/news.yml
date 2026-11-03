@@ -1,7 +1,7 @@
 name: daily-news
 on:
   schedule:
-    - cron: "0 21 * * *"   # 2:30 AM IST
+    - cron: "30 0 * * *"   # 6:00 AM IST   # 2:30 AM IST
   workflow_dispatch:
 permissions:
   contents: read
